@@ -2,8 +2,6 @@
 
 **Note:** You will need to create a javascript file, make sure you use the **console**
 
-
-> Use your javascript to do the following
 1. 
 - Store your birth year in a variable.
 - Store a future year in a variable.
