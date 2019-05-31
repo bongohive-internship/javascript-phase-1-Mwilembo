@@ -5,7 +5,7 @@
 Important links to read on
 - [W3schools on Variables](https://www.w3schools.com/js/js_variables.asp)
 - [Variable Declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations)
-
+- [Variable assignment](https://www.w3schools.com/js/js_assignment.asp)
 1. 
 - Store your birth year in a variable.
 - Store a future year in a variable.
