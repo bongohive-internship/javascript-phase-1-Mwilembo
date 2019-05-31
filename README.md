@@ -1,6 +1,10 @@
 # js-basics
 
-**Note:** You will need to create a javascript file, make sure you use the **console**
+**Note:** You will need to create a javascript file, make sure you use the **console** 
+
+Important links to read on
+- [W3schools on Variables](https://www.w3schools.com/js/js_variables.asp)
+- [Variable Declaration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Declarations)
 
 1. 
 - Store your birth year in a variable.
