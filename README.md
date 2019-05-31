@@ -1,4 +1,4 @@
-# js-basics
+# Javascript-basics
 
 **Note:** You will need to create a javascript file, make sure you use the **console** 
 
