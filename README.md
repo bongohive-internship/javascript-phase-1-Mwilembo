@@ -1,6 +1,6 @@
 # Javascript-basics
 
-**Note:** You will need to create a javascript file, make sure you use the **console** 
+**Note:** Use the `variable.js` file, make sure you use the **[console](https://developers.google.com/web/tools/chrome-devtools/console/log)** for demoing your solutions
 
 Important links to read on
 - [W3schools on Variables](https://www.w3schools.com/js/js_variables.asp)
